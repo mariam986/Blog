@@ -25,7 +25,7 @@ const Videos = () => {
                 Mars Exploration: Unveiling Alien Landscapes
               </h1>
               <p className="font-normal text-[14px] md:text-[15px] lg:text-[16px] xl:text-[18px] text-[#98989A]">
-                Embark on a journey through the Red Planet's breathtaking
+                Embark on a journey through the Red Planet&apos;s breathtaking
                 landscapes and uncover the mysteries of Mars.
               </p>
             </div>

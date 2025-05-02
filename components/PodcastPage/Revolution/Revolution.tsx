@@ -159,8 +159,8 @@ const Revolution = () => {
               </h1>
               <p className="font-normal  text-[14px] md:text-[15px] lg:text-[16px] xl:text-[18px] text-[#98989A]">
                 Mark discusses the future of AI, the impact on society, and how
-                it's shaping industries worldwide. Engage in thought-provoking
-                conversations with leading experts.
+                it&apos;s shaping industries worldwide. Engage in
+                thought-provoking conversations with leading experts.
               </p>
               <div className="flex flex-col lg:flex-row space-y-5 justify-between ">
                 <div className="flex flex-col space-y-3 border border-[#262626] bg-[#1A1A1A] rounded-[13px] py-[30px] w-[100%] lg:w-[30%] px-[30px] ">

@@ -172,8 +172,8 @@ const Words = () => {
               <div className="relative border-2 px-[30px] pt-[50px] pb-[30px] bg-[#1A1A1A] border-[#262626] rounded-[12px] ">
                 <p className="font-normal text-[14px] md:text-[15px] lg:text-[16px] xl:text-[18px] text-[#FFFFFF] text-center ">
                   The research papers on genomic breakthroughs have been a
-                  goldmine of information. They've shaped the direction of my
-                  research in genomics.
+                  goldmine of information. They&apos;ve shaped the direction of
+                  my research in genomics.
                 </p>
                 <Image
                   src="/images/star.png"
