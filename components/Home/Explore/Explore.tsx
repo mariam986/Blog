@@ -1,5 +1,5 @@
 import SectionHeader from "@/components/Helper/SectionHeader";
-import { ArrowUpRightIcon } from "@heroicons/react/16/solid";
+
 import React from "react";
 
 const Explore = () => {

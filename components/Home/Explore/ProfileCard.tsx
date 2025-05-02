@@ -1,4 +1,4 @@
-import { ArrowUpRightIcon, HeartIcon } from "@heroicons/react/16/solid";
+import { ArrowUpRightIcon } from "@heroicons/react/16/solid";
 import Image from "next/image";
 import React from "react";
 import { CiHeart } from "react-icons/ci";

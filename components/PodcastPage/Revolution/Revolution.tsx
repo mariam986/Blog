@@ -1,8 +1,4 @@
-import {
-  ArrowUpCircleIcon,
-  ArrowUpLeftIcon,
-  ArrowUpRightIcon,
-} from "@heroicons/react/16/solid";
+import { ArrowUpRightIcon } from "@heroicons/react/16/solid";
 import Image from "next/image";
 import React from "react";
 
