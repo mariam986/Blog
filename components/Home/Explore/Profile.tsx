@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import ProfileCard from "./ProfileCard";
 
@@ -5,7 +6,7 @@ const Profile = () => {
   return (
     <div className="w-full bg-[#141414]">
       <div className="w-[90%] mx-auto">
-        <div className="flex items-center space-x-3 py-[50px] overflow-x-auto scrollbar-hide w-full">
+        <div className="flex items-center space-x-3 py-[50px] overflow-x-auto  [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden w-full ">
           <button
             className="py-[24px] px-[30px] w-[100%] border-2 border-[#262626] rounded-[8px] text-[14px] bg-[#141414]
           md:text-[15px] lg:text-[16px] xl:text-[17px] text-[#98989A] hover:bg-[#1A1A1A] hover:text-[#FFFFFF] whitespace-nowrap  "

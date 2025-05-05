@@ -32,7 +32,7 @@ const Footer = () => {
                 />
               </div>
               <div className="flex flex-col space-y-2">
-                <div className="px-[8px] pt-[4px] pb-[4px]  lg:w-[35%]  xl:w-[20%]  rounded-[4px] border-2 bg-[#333333] border-[#262626] items-center  hidden lg:flex ">
+                <div className="px-[8px] pt-[4px] pb-[4px] text-[#FFFFFF]  lg:w-[35%]  xl:w-[20%]  rounded-[4px] border-2 bg-[#333333] border-[#262626] items-center  hidden lg:flex ">
                   <p>Learn, Connect and Innovate</p>
                 </div>
                 <h1 className="text-[28px] md:text-[38px] lg:text-[44px] xl:text-[58px] font-medium text-[#FFFFFF]">

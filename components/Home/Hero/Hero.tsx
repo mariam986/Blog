@@ -22,7 +22,7 @@ const Hero = () => {
             </p>
             <div className="border-t-2 border-[#262626] mt-20 ">
               <div className="flex  items-center justify-evenly text-center">
-                <div className="flex flex-col items-center space-y-5 border-r-2 border-[#262626] w-[30%] py-10  ">
+                <div className="flex flex-col items-center space-y-5 border-r-2 border-[#262626] w-[40%] py-10  ">
                   <h1 className="font-semibold text-[24px] md-text-[28px] lg:text-[30px] xl:text-[40px]">
                     300 <span className="text-[#FFD11A]">+</span>
                   </h1>
@@ -75,7 +75,7 @@ const Hero = () => {
         </div>
         <div className=" border-t-2 border-[#262626]">
           <div className="flex flex-col lg:flex-row items-center justify-evenly  ">
-            <div className="flex flex-col space-y-6  justify-center lg:border-r-2 border-[#262626] border-b-2 lg:border-b-0 items-start py-10 lg:px-10  lg:w-[33%] w-[100%]">
+            <div className="flex flex-col space-y-6  justify-center lg:border-r-2 border-[#262626] border-b-2 lg:border-b-0 items-start py-10 lg:px-10  lg:w-[30%] w-[100%]">
               <Image
                 src="/images/loading.png"
                 alt="icon"
@@ -92,14 +92,14 @@ const Hero = () => {
                   </p>
                 </div>
                 <div className=" relative rounded-full w-10 h-10 bg-[#FFD11A]">
-                  <ArrowUpRightIcon className="absolute inset-2 size-6 text-black " />
+                  <ArrowUpRightIcon className="absolute top-2 left-1 size-6 text-black " />
                 </div>
               </div>
               <p className="font-normal text-[16px] md:text-[17px] lg:text-[18px] xl:text-[20px] text-[#98989A] ">
                 Over 1,000 articles published monthly
               </p>
             </div>
-            <div className="flex flex-col space-y-6  justify-center lg:border-r-2 border-[#262626] border-b-2 lg:border-b-0 items-start py-10 lg:px-10  lg:w-[33%] w-[100%]">
+            <div className="flex flex-col space-y-6  justify-center lg:border-r-2 border-[#262626] border-b-2 lg:border-b-0 items-start py-10 lg:px-10  lg:w-[30%] w-[100%]">
               <Image src="/images/bee.png" alt="icon" width={30} height={30} />
               <div className="flex justify-between items-center lg:space-x-6 xl:space-x-20 space-x-20 md:space-x-96 ">
                 <div className="flex flex-col space-y-2">
@@ -111,14 +111,14 @@ const Hero = () => {
                   </p>
                 </div>
                 <div className=" relative rounded-full w-10 h-10 bg-[#FFD11A]">
-                  <ArrowUpRightIcon className="absolute inset-2 size-6 text-black " />
+                  <ArrowUpRightIcon className="absolute top-2 left-1 size-6 text-black " />
                 </div>
               </div>
               <p className="font-normal text-[16px] md:text-[17px] lg:text-[18px] xl:text-[20px] text-[#98989A] ">
                 50+ Renowed AI experts on our team
               </p>
             </div>
-            <div className="flex flex-col space-y-6  justify-center lg:border-r-2 border-[#262626] border-b-2 lg:border-b-0 items-start py-10 lg:px-10  lg:w-[34%] w-[100%]">
+            <div className="flex flex-col space-y-6  justify-center border-[#262626] border-b-2 lg:border-b-0 items-start py-10 lg:px-10  lg:w-[33%] w-[100%]">
               <Image src="/images/leaf.png" alt="icon" width={30} height={30} />
               <div className="flex justify-between items-center lg:space-x-6 xl:space-x-20 space-x-20  md:space-x-96 ">
                 <div className="flex flex-col space-y-2">
