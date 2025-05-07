@@ -42,7 +42,7 @@ const Hero = () => {
             alt="image"
             width={1500}
             height={1500}
-            className="w-fit h-fit object-cover"
+            className="w-full h-full object-cover"
           />
           <div className="flex flex-col space-y-8">
             <h1 className="font-semibold  text-[20px] md:text-[24px] lg:text-[28px] xl:text-[32px] text-[#FFFFFF]">
@@ -113,7 +113,7 @@ const Hero = () => {
               alt="image"
               width={2000}
               height={2000}
-              className="w-fit h-fit object-cover"
+              className="w-full h-full object-cover"
             />
             <h1 className="font-semibold text-[16px] md:text-[17px] lg:text-[18px] xl:text-[20px] text-[#FFFFFF]">
               A Decisive Victory for Progressive Policies
@@ -143,7 +143,7 @@ const Hero = () => {
                 >
                   Read More
                 </button>
-                <ArrowUpRightIcon className="size-5 text-[#FFD11A] absolute top-6 left-30 lg:left-48 " />
+                <ArrowUpRightIcon className="size-5 text-[#FFD11A] absolute top-5 lg:top-6 left-27 lg:left-48 md:left-30 " />
               </div>
             </div>
           </div>
@@ -153,7 +153,7 @@ const Hero = () => {
               alt="image"
               width={2000}
               height={2000}
-              className="w-fit h-fit object-cover"
+              className="w-full h-full object-cover"
             />
             <h1 className="font-semibold text-[16px] md:text-[17px] lg:text-[18px] xl:text-[20px] text-[#FFFFFF]">
               Tech Giants Unveil Cutting AI Innovations
@@ -183,7 +183,7 @@ const Hero = () => {
                 >
                   Read More
                 </button>
-                <ArrowUpRightIcon className="size-5 text-[#FFD11A] absolute top-6 left-30 lg:left-48 " />
+                <ArrowUpRightIcon className="size-5 text-[#FFD11A] absolute top-5 lg:top-6 left-27 lg:left-48 md:left-30 " />
               </div>
             </div>
           </div>
@@ -191,9 +191,9 @@ const Hero = () => {
             <Image
               src="/images/news4.png"
               alt="image"
-              width={2000}
-              height={2000}
-              className="w-fit h-fit object-cover"
+              width={1500}
+              height={1500}
+              className="w-full h-full object-cover"
             />
             <h1 className="font-semibold text-[16px] md:text-[17px] lg:text-[18px] xl:text-[20px] text-[#FFFFFF]">
               COVID-19 Variants
@@ -223,7 +223,48 @@ const Hero = () => {
                 >
                   Read More
                 </button>
-                <ArrowUpRightIcon className="size-5 text-[#FFD11A] absolute top-6 left-30 lg:left-48" />
+                <ArrowUpRightIcon className="size-5 text-[#FFD11A] absolute top-5 lg:top-6 left-27 lg:left-48 md:left-30" />
+              </div>
+            </div>
+          </div>
+
+          <div className=" flex-col space-y-5 hidden w-[100%]">
+            <Image
+              src="/images/news4.png"
+              alt="image"
+              width={1500}
+              height={1500}
+              className="w-full h-full object-cover"
+            />
+            <h1 className="font-semibold text-[16px] md:text-[17px] lg:text-[18px] xl:text-[20px] text-[#FFFFFF]">
+              COVID-19 Variants
+            </h1>
+            <p className="font-normal text-[14px] md:text-[15px] lg:text-[16px] xl:text-[20px] text-[#98989A]">
+              Health
+            </p>
+            <div className="flex items-center justify-between">
+              <div className="flex space-x-2">
+                <div className="relative border-2 pl-[22px] pr-[16px] py-[8px] rounded-[100px] bg-[#1A1A1A] border-[#262626]">
+                  <p className="ml-2 font-normal text-[14px] md:text-[15px] lg:text-[16px] xl:text-[18px] text-[#98989A]">
+                    10K
+                  </p>
+                  <CiHeart className="absolute lg:top-3 top-2 left-0 size-5 gap-3 ml-2 text-[#98989A] " />
+                </div>
+                <div className="relative border-2 pl-[22px] pr-[16px] py-[8px] rounded-[100px] bg-[#1A1A1A] border-[#262626]">
+                  <p className="ml-2 font-normal text-[14px] md:text-[15px] lg:text-[16px] xl:text-[18px] text-[#98989A]">
+                    124
+                  </p>
+                  <LuSend className="absolute lg:top-3 top-2  left-0 size-5 gap-3 ml-2 text-[#98989A] " />
+                </div>
+              </div>
+              <div className="relative ">
+                <button
+                  className="border-2 px-[30px] lg:px-[80px] py-[18px] border-[#262626]  rounded-[12px]  font-normal 
+              text-[14px] md:text-[15px] lg:text-[16px] xl:text-[18px] text-[#98989A] "
+                >
+                  Read More
+                </button>
+                <ArrowUpRightIcon className="size-5 text-[#FFD11A] absolute top-5 lg:top-6 left-27 lg:left-48" />
               </div>
             </div>
           </div>

@@ -205,25 +205,25 @@ const Footer = () => {
                   <p className="font-normal text-[14px] md:text-[15px] lg:text-[16px] xl:text-[18px] text-[#98989A]">
                     Whitepapers
                   </p>
-                  <ArrowUpRightIcon className="size-5 text-[#FFD11A]  absolute top-3  lg:top-4 left-28 lg:left-34 " />
+                  <ArrowUpRightIcon className="size-5 text-[#FFD11A]  absolute top-3  lg:top-3 xl:top-4 left-28 lg:left-30 xl:left-34 " />
                 </div>
                 <div className="border-2 pl-[16px] pr-[28px] py-[10px] border-[#262626] bg-[#141414] relative rounded-[8px] w-fit ">
                   <p className="font-normal text-[14px] md:text-[15px] lg:text-[16px] xl:text-[18px] text-[#98989A]">
                     Ebooks
                   </p>
-                  <ArrowUpRightIcon className="size-5 text-[#FFD11A]  absolute  top-3  lg:top-4 left-18 lg:left-20" />
+                  <ArrowUpRightIcon className="size-5 text-[#FFD11A]  absolute  top-3  lg:top-3 xl:top-4 left-18 lg:left-18 xl:left-20 " />
                 </div>
                 <div className="border-2 pl-[16px] pr-[28px]  py-[10px] border-[#262626] bg-[#141414] relative rounded-[8px] w-fit ">
                   <p className="font-normal text-[14px] md:text-[15px] lg:text-[16px] xl:text-[18px] text-[#98989A]">
                     Reports
                   </p>
-                  <ArrowUpRightIcon className="size-5 text-[#FFD11A]  absolute top-3  lg:top-4 left-18 lg:left-22 " />
+                  <ArrowUpRightIcon className="size-5 text-[#FFD11A]  absolute top-3  lg:top-3 xl:top-4 left-18 lg:left-20 xl:left-22 " />
                 </div>
                 <div className="border-2 pl-[16px] pr-[28px]  py-[10px] border-[#262626] bg-[#141414] relative rounded-[8px] w-fit ">
                   <p className="font-normal text-[14px] md:text-[15px] lg:text-[16px] xl:text-[18px] text-[#98989A]">
                     Research Papers
                   </p>
-                  <ArrowUpRightIcon className="size-5 text-[#FFD11A]  absolute top-3  lg:top-4 left-34 md:left-36 lg:left-42 " />
+                  <ArrowUpRightIcon className="size-5 text-[#FFD11A]  absolute top-3  lg:top-4 left-34 md:left-36 lg:left-36 xl:left-42 " />
                 </div>
               </div>
             </div>

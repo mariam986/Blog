@@ -54,7 +54,7 @@ const Details = () => {
                     >
                       Download PDF Now
                     </button>
-                    <ArrowUpRightIcon className="size-6 text-[#FFD11A] top-4 lg:top-5 absolute left-44 lg:left-32 xl:left-52" />
+                    <ArrowUpRightIcon className="size-6 text-[#FFD11A] top-4 md:top-5 absolute left-40 md:left-44 lg:left-36 xl:left-52" />
                   </div>
                 </div>
                 <div className="flex flex-col lg:flex-row space-y-5 justify-between ">
@@ -142,7 +142,7 @@ const Details = () => {
                     >
                       Download PDF Now
                     </button>
-                    <ArrowUpRightIcon className="size-6 text-[#FFD11A] top-4 lg:top-5 absolute left-44 lg:left-32 xl:left-52" />
+                    <ArrowUpRightIcon className="size-6 text-[#FFD11A] top-4 md:top-5 absolute left-40 md:left-44 lg:left-36 xl:left-52" />
                   </div>
                 </div>
                 <div className="flex flex-col lg:flex-row space-y-5 justify-between ">
@@ -151,7 +151,7 @@ const Details = () => {
                       Publication Date
                     </p>
                     <h2 className="font-medium  text-[16px] md:text-[17px] lg:text-[18px] xl:text-[20px] text-[#FFFFFF]">
-                      September,2023
+                      Sept,2023
                     </h2>
                   </div>
                   <div className="flex flex-col space-y-3 border bg-[#1A1A1A] border-[#262626] rounded-[13px] py-[30px] w-[100%] lg:w-[30%] px-[30px] ">

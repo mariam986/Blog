@@ -36,7 +36,7 @@ const Readers = () => {
                 >
                   Download Ebooks Now
                 </button>
-                <ArrowUpRightIcon className="size-5 absolute  top-6  left-68 lg:left-36 xl:left-[22rem] md:left-[28rem]  text-[#FFD11A]" />
+                <ArrowUpRightIcon className="size-5 absolute  top-5 lg:top-6  left-68 lg:left-68 xl:left-[22rem] md:left-[28rem]  text-[#FFD11A]" />
               </div>
               <div className="border-2 bg-[#1A1A1A] px-[30px] py-[30px] flex justify-between space-x-5 rounded-[13px] w-[100%] lg:w-[90%] xl:w-[80%] border-[#262626] ">
                 <div className="flex flex-col space-y-3">
@@ -96,7 +96,7 @@ const Readers = () => {
                     <button className="pl-[24px] pr-[36px] py-[18px] bg-[#141414]  rounded-[10px] font-normal text-[14px] md:text-[16px] lg:text-[16px] xl:text-[18px] text-[#FFFFFF]">
                       Preview
                     </button>
-                    <IoEyeOutline className="absolute top-5  lg:top-6 left-[5rem] lg:left-[7rem] text-[#FFD11A] " />
+                    <IoEyeOutline className="absolute top-5  lg:top-6 left-[90px] lg:left-[6rem] text-[#FFD11A] " />
                   </div>
                 </div>
               </div>
@@ -137,7 +137,7 @@ const Readers = () => {
                 >
                   Download Whitepapers Now
                 </button>
-                <ArrowUpRightIcon className="size-5 absolute  top-6  left-68 lg:left-36 xl:left-[24rem] md:left-[28rem]  text-[#FFD11A]" />
+                <ArrowUpRightIcon className="size-5 absolute  top-5 lg:top-6  left-72 lg:left-72 xl:left-[24rem] md:left-[28rem]  text-[#FFD11A]" />
               </div>
               <div className="border-2 bg-[#1A1A1A] px-[30px] py-[30px] flex justify-between space-x-5 rounded-[13px] w-[100%] lg:w-[90%] xl:w-[80%] border-[#1A1A1A] ">
                 <div className="flex flex-col space-y-3">
@@ -197,7 +197,7 @@ const Readers = () => {
                     <button className="pl-[24px] pr-[36px] py-[18px] bg-[#141414]  rounded-[10px] font-normal text-[14px] md:text-[16px] lg:text-[16px] xl:text-[18px] text-[#FFFFFF]">
                       Preview
                     </button>
-                    <IoEyeOutline className="absolute top-5  lg:top-6 left-[5rem] lg:left-[7rem] text-[#FFD11A] " />
+                    <IoEyeOutline className="absolute top-5  lg:top-6 left-[90px] lg:left-[6rem] text-[#FFD11A] " />
                   </div>
                 </div>
               </div>

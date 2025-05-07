@@ -39,7 +39,7 @@ const Hero = () => {
       <div className="w-full bg-[#141414] border-t-2 border-[#262626]">
         <div className="w-[90%] mx-auto">
           <div className="flex items-center justify-between ">
-            <div className="flex flex-col space-y-4 border-r-2 border-[#262626] w-[50%] lg:w-[25%] items-center py-[40px]">
+            <div className="flex flex-col space-y-4 border-r-2 border-[#262626] w-[50%] lg:w-[24%] items-center py-[40px]">
               <h1 className="font-semibold text-[24px] md-text-[30px] lg:text-[40px] xl:text-[60px]  text-[#FFFFFF]">
                 300 <span className="text-[#FFD11A]">+</span>
               </h1>
@@ -47,7 +47,7 @@ const Hero = () => {
                 Resources available
               </p>
             </div>
-            <div className="flex flex-col  space-y-4 border-r-0 lg:border-r-2 border-[#262626] py-[40px]  w-[50%] lg:w-[25%] items-center  ">
+            <div className="flex flex-col  space-y-4 border-r-0 lg:border-r-2 border-[#262626] py-[40px]  w-[50%] lg:w-[24%] items-center  ">
               <h1 className="font-semibold text-[24px] md-text-[30px] lg:text-[40px] xl:text-[60px] text-[#FFFFFF]">
                 12k <span className="text-[#FFD11A]">+</span>
               </h1>
@@ -55,7 +55,7 @@ const Hero = () => {
                 Total Downloads
               </p>
             </div>
-            <div className="lg:flex hidden flex-col space-y-4 border-r-2 border-[#262626] py-[40px]  w-[25%] items-center ">
+            <div className="lg:flex hidden flex-col space-y-4 border-r-2 border-[#262626] py-[40px]  w-[24%] items-center ">
               <h1 className="font-semibold text-[24px] md-text-[30px] lg:text-[40px] xl:text-[60px] text-[#FFFFFF]">
                 10k <span className="text-[#FFD11A]">+</span>
               </h1>
@@ -63,7 +63,7 @@ const Hero = () => {
                 Active Users
               </p>
             </div>
-            <div className="lg:flex hidden  flex-col space-y-4 py-[40px]  w-[25%]  items-center ">
+            <div className="lg:flex hidden  flex-col space-y-4 py-[40px]  pl-10 w-[28%]  items-center ">
               <h1 className="font-semibold text-[24px] md-text-[30px] lg:text-[40px] xl:text-[60px] text-[#FFFFFF]">
                 100 <span className="text-[#FFD11A]">+</span>
               </h1>
