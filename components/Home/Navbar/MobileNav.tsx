@@ -54,30 +54,35 @@ const MobileNav = () => {
       >
         <Link
           href="/"
+          onClick={handleCloseNav}
           className="ml-12 border-b-2 pb-2 font-normal text-[18px] text-[#FFFFFF] w-fit "
         >
           Home
         </Link>
         <Link
           href="/News"
+          onClick={handleCloseNav}
           className="ml-12 border-b-2 pb-2 font-normal text-[18px] text-[#FFFFFF] w-fit "
         >
           News
         </Link>
         <Link
           href="/Podcast"
+          onClick={handleCloseNav}
           className="ml-12 border-b-2 pb-2 font-normal text-[18px] text-[#FFFFFF] w-fit  "
         >
           Podcasts
         </Link>
         <Link
           href="/Resource"
+          onClick={handleCloseNav}
           className="ml-12 border-b-2 pb-2 font-normal text-[18px] text-[#FFFFFF] w-fit "
         >
           Resources
         </Link>
         <Link
           href="/Contact"
+          onClick={handleCloseNav}
           className="ml-12 border-b-2 pb-2 font-normal text-[18px] text-[#FFFFFF] w-fit "
         >
           Contact Us
